@@ -1,0 +1,52 @@
+/*
+font-family: 'Lora', serif;
+font-family: 'Open Sans', sans-serif;
+*/
+
+body {
+  background-color: #fffff8;
+  color: #01010f;
+  font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
+  font-weight: 400;
+  padding: 2em 4em;
+  font-size: 13pt;
+}
+
+h1 {
+  border-bottom: 1px solid lightgrey;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lora', 'Garamond', 'Times New Roman', serif;
+  font-weight: 400;
+  max-width: 600px;
+}
+
+h3 {
+  margin: 1em 0 1em;
+  padding-top: 2em;
+  border-top: 1px solid lightgrey;
+}
+
+a, a:visited, a:active {
+  color: #131385;
+}
+
+article {
+  margin-bottom: 3em;
+  border-bottom: 1px solid lightgrey;
+  max-width: 600px;
+}
+
+a:hover, a:focus {
+  color: #9350eb;
+}
+
+p {
+  max-width: 600px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 1em;
+}
